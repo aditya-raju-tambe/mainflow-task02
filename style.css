@@ -1,0 +1,29 @@
+
+.body{
+    padding: 50px;
+}
+
+
+
+.container{
+
+    max-width: 600px;
+    margin:0 auto;
+    padding: 50px;
+    box-shadow: rgb(198, 20, 20);
+}
+
+
+
+.form-group{
+    margin-bottom: 30px;
+    box-shadow: red;
+    border-color: black;
+    font-size: large;
+    
+    
+}
+
+.btn{
+    background-color: blue;
+}
